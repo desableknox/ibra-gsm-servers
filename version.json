@@ -3,16 +3,16 @@
   "app_update_url": "https://github.com/desableknox/ibra-gsm-server/releases",
   "drivers_pack_url": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/drivers_pack.zip",
   "drivers": {
-    "mtk": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/mtk.zip",
-    "qualcomm": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/qualcomm.zip",
-    "spd": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/spd.zip",
-    "samsung": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/samsung.zip",
-    "huawei": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/huawei.zip",
-    "adb": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/adb.zip",
-    "apple": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/apple.zip",
-    "libusb": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/libusb.zip",
-    "usbdk": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/usbdk.zip",
-    "motorola": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/motorola.zip",
-    "smartcard": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/smartcard.zip"
+    "mtk": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/drivers_pack.zip",
+    "qualcomm": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/drivers_pack.zip",
+    "spd": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/drivers_pack.zip",
+    "samsung": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/drivers_pack.zip",
+    "huawei": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/drivers_pack.zip",
+    "adb": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/drivers_pack.zip",
+    "apple": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/drivers_pack.zip",
+    "libusb": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/drivers_pack.zip",
+    "usbdk": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/drivers_pack.zip",
+    "motorola": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/drivers_pack.zip",
+    "smartcard": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/drivers_pack.zip"
   }
 }
