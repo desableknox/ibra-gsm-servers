@@ -1,6 +1,2 @@
-{
-  "latest_version": "1.0.1",
-  "app_status": "active",
-  "kill_message": "Application has been disabled remotely by the developer.",
-  "app_update_url": ""
-}
+"latest_version": "1.0.1",
+"app_update_url": "https://www.google.com"
