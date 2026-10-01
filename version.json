@@ -1,18 +1,6 @@
 {
   "latest_version": "1.0.0",
-  "app_update_url": "https://github.com/desableknox/ibra-gsm-server/releases",
-  "drivers_pack_url": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/drivers_pack.zip",
-  "drivers": {
-    "mtk": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/drivers_pack.zip",
-    "qualcomm": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/drivers_pack.zip",
-    "spd": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/drivers_pack.zip",
-    "samsung": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/drivers_pack.zip",
-    "huawei": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/drivers_pack.zip",
-    "adb": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/drivers_pack.zip",
-    "apple": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/drivers_pack.zip",
-    "libusb": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/drivers_pack.zip",
-    "usbdk": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/drivers_pack.zip",
-    "motorola": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/drivers_pack.zip",
-    "smartcard": "https://github.com/desableknox/ibra-gsm-server/releases/download/v1.0.0/drivers_pack.zip"
-  }
+  "app_status": "active",
+  "kill_message": "Application has been disabled remotely by the developer.",
+  "app_update_url": ""
 }
